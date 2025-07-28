@@ -29,7 +29,7 @@ This project implements the **ID3 (Iterative Dichotomiser 3)** algorithm to buil
 
 ## Dataset and Methodology
 
-- A set of **classification datasets** (referenced in [1]) were used to train the model.
+- A set of **classification datasets** were used to train the model.
 - These datasets include both **categorical** and **continuous** variables.
 - Each dataset was split into a **training set** and a **test set**.
 - The decision tree classifier (based on ID3) was trained on the training data and evaluated on the test data.
